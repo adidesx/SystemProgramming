@@ -10,6 +10,7 @@ int main()
 	} else {
 		printf("Parent : %d\n", getpid());
 	}
+	printf("Main End\n");
 	return 0;	
 }
 
