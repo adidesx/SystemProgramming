@@ -4,6 +4,7 @@
 
 int main()
 {
+	printf("Aditya\n");
 	printf("Current Process ID : %d\n", getpid());
 	printf("Parent Process ID : %d\n", getppid());
 	printf("Group  Process ID : %d\n", getpgrp());
